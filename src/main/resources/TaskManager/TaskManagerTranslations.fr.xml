@@ -87,6 +87,23 @@ TaskManager.SeverityClass_severity_Low=Basse
 TaskManager.SeverityClass_severity_Medium=Moyenne
 TaskManager.SeverityClass_severity_High=Haute
 
+# Live table generic keys
+taskmanager.livetable.doc.title=Titre de la page
+taskmanager.livetable.doc.name=Nom de la page
+taskmanager.livetable.doc.space=Espace
+taskmanager.livetable.doc.fullname=Nom complet de la page
+taskmanager.livetable.doc.author=Dernier auteur
+taskmanager.livetable.doc.creator=Créateur
+taskmanager.livetable.doc.date=Date de mise à jour
+taskmanager.livetable.doc.creationDate=Date de création
+taskmanager.livetable._avatar=Avatar
+taskmanager.livetable._images=Images
+taskmanager.livetable._attachments=Fichiers joints
+taskmanager.livetable._actions=Actions
+taskmanager.livetable._actions.edit=Modifier
+taskmanager.livetable._actions.delete=Supprimer
+taskmanager.livetable.emptyvalue=-
+
 # Live table specific keys
 taskmanager.livetable.name=Nom de la tâche
 taskmanager.livetable.number=Numéro de la tâche
